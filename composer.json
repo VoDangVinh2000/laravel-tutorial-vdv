@@ -7,7 +7,7 @@
 	"authors" : [
 		"name" : "Võ Đăng Vĩnh",
 		"email" : "01686228222vinh@gmail.com"
-	]
+	],
     "require": {
         "php": "^7.3|^8.0",
         "fideloper/proxy": "^4.4",
