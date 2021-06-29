@@ -5,8 +5,10 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
 	"authors" : [
-		"name" : "Võ Đăng Vĩnh",
-		"email" : "01686228222vinh@gmail.com"
+		{
+			"name" : "Võ Đăng Vĩnh",
+			"email" : "01686228222vinh@gmail.com"
+		}
 	],
     "require": {
         "php": "^7.3|^8.0",
